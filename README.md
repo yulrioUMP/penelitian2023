@@ -9,3 +9,7 @@
 ## Kode Program
 - https://www.kaggle.com/datasets/ardamavi/27-class-sign-language-dataset
 - https://www.kaggle.com/code/rivesunder/tf-lite-sign
+
+## Conda ENV
+- conda create -n test_env python= 3.10
+- conda remove -n test_env --all

@@ -5,6 +5,7 @@
 - https://www.kaggle.com/datasets/ardamavi/sign-language-digits-dataset
 - https://www.kaggle.com/datasets/grassknoted/asl-alphabet
 - https://www.kaggle.com/datasets/ardamavi/27-class-sign-language-dataset
+- https://www.kaggle.com/code/alpayabbaszade/american-sign-language
 
 ## Kode Program
 - https://www.kaggle.com/datasets/ardamavi/27-class-sign-language-dataset

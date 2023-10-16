@@ -10,6 +10,8 @@
 - https://www.kaggle.com/datasets/ardamavi/27-class-sign-language-dataset
 - https://www.kaggle.com/code/rivesunder/tf-lite-sign
 - https://github.com/ardamavi/Vocalize-Sign-Language
+- https://www.kaggle.com/code/irfanarisani/asl-recognition-based-on-cnn-architecture
+- https://www.kaggle.com/code/sachinpatil1280/hand-sign-multi-class-classification-cnn-97
 
 ## Conda ENV
 - conda create -n test_env python= 3.10

@@ -12,6 +12,7 @@
 - https://github.com/ardamavi/Vocalize-Sign-Language
 - https://www.kaggle.com/code/irfanarisani/asl-recognition-based-on-cnn-architecture
 - https://www.kaggle.com/code/sachinpatil1280/hand-sign-multi-class-classification-cnn-97
+- https://www.kaggle.com/code/brussell757/american-sign-language-classification
 
 ## Conda ENV
 - conda create -n test_env python= 3.10
